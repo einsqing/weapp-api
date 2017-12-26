@@ -10,11 +10,21 @@
     "type": "git",
     "url": "git+https://github.com/einsqing/weapp-api.git"
   },
-  "keywords": ["wechat", "weixin", "weapp", "wxapp", "wxa"],
+  "keywords": [
+    "wechat",
+    "weixin",
+    "weapp",
+    "wxapp",
+    "wxa"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/einsqing/weapp-api/issues"
   },
-  "homepage": "https://github.com/einsqing/weapp-api#readme"
+  "homepage": "https://github.com/einsqing/weapp-api#readme",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "httpx": "^2.1.2"
+  }
 }
