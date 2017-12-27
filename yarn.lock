@@ -12,7 +12,7 @@ debug@^2.2.0:
   dependencies:
     ms "2.0.0"
 
-httpx@^2.1.2:
+httpx@^2.1.1:
   version "2.1.2"
   resolved "https://registry.yarnpkg.com/httpx/-/httpx-2.1.2.tgz#59aec158ad68df0aad368a729b25f22a8dbfb114"
   dependencies:

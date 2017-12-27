@@ -25,6 +25,6 @@
   "homepage": "https://github.com/einsqing/weapp-api#readme",
   "dependencies": {
     "crypto": "^1.0.1",
-    "httpx": "^2.1.2"
+    "httpx": "^2.1.1"
   }
 }
