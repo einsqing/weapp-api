@@ -6,5 +6,6 @@ API.mixin(require("./lib/api_message"));
 API.mixin(require("./lib/api_qrcode"));
 API.mixin(require("./lib/api_template"));
 API.mixin(require("./lib/api_user"));
+API.mixin(require("./lib/api_media"));
 
 module.exports = API;
