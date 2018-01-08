@@ -1,6 +1,6 @@
 {
   "name": "weapp-api",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "微信小程序Node库",
   "main": "index.js",
   "scripts": {
@@ -10,13 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/einsqing/weapp-api.git"
   },
-  "keywords": [
-    "wechat",
-    "weixin",
-    "weapp",
-    "wxapp",
-    "wxa"
-  ],
+  "keywords": ["wechat", "weixin", "weapp", "wxapp", "wxa"],
   "author": "",
   "license": "ISC",
   "bugs": {
